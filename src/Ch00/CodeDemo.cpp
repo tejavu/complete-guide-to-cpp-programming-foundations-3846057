@@ -1,6 +1,5 @@
 // Complete Guide to C++ Programming Foundations
-// Exercise 00_03
-// Using the Exercise Files in GitHub Codespaces, by Eduardo Corpeño 
+// Exercise 00_03, to play with the VS code interface
 
 #include <iostream>
 
