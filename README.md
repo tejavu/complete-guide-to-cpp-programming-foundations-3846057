@@ -11,14 +11,4 @@ Discover the full potential of the C++ programming language with our <i>Complete
 
 Eduardo Corpeño
 
-Electrical Engineer, Computer Programmer, and Teacher for 15+ years
-
-                            
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/eduardo-corpeno?u=104).
-
-
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D560DAQH50vvvBb4fjQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728602707442?e=2147483647&v=beta&t=yMWsb5TyfFuhbVxl1cm6CDDW388xu0wRGx5Jr8HtnFw
 
