@@ -1,6 +1,7 @@
 // Complete Guide to C++ Programming Foundations
 // Challenge 05_09
-// Calculate Resource Cost, by Eduardo Corpeño 
+// Calculate Resource Cost
+// My solution
 
 #include <iostream>
 #include <cstdint>
@@ -14,8 +15,22 @@ struct Resource{
 
 double CalculateTotalCost(std::vector<Resource> resources){
     double result = 0.0;
-    
+
     // Write your code here
+    for (auto x : resources){
+       switch (x.type){
+        case 'B': 
+            result+= (x.baseCost * 1.05);
+            break;
+        case 'L': 
+            result+= (x.baseCost * 1.15);
+            break;
+        case 'E': 
+            result+= (x.baseCost);
+            break;
+        
+       }
+    }
     
     return result;
 }
